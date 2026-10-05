@@ -41,9 +41,9 @@ nothing to commit, working tree clean
 ### `git log -n 1`
 <!--LOG-->
 ```
-commit d539b2dc94c3bb64d0bd8038cbc7c6797c5c38bf
-Author: ptitvn <ptitvn@example.com>
-Date:   Mon Oct 5 03:45:02 2026 +0000
+commit 7351b99fec33fb2465aefb287b8a8e3b4d390633
+Author: Le Trung Dong <tle474498@gmail.com>
+Date:   Mon Oct 5 10:48:58 2026 +0700
 
     Go credentials.txt khoi theo doi va them .gitignore
 ```
