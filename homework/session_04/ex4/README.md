@@ -49,3 +49,6 @@ Date:   Mon Oct 5 10:48:58 2026 +0700
 ```
 <!--/LOG-->
 → Thông điệp commit đã được sửa thành công bằng `--amend`.
+
+## 4. Ảnh chụp minh chứng
+![Kết quả git status và git log -n 1](images/ket-qua.png)
