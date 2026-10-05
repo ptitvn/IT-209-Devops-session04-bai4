@@ -1,0 +1,11 @@
+# File nhạy cảm
+credentials.txt
+*.env
+.env
+
+# File rác hệ thống
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
